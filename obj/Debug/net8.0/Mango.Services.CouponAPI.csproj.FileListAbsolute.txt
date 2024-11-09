@@ -168,3 +168,4 @@ C:\Users\gabri\Desktop\Proyectos\1.Mango\Mango\Mango.Services.CouponAPI\bin\Debu
 C:\Users\gabri\Desktop\Proyectos\1.Mango\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\gabri\Desktop\Proyectos\1.Mango\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\gabri\Desktop\Proyectos\1.Mango\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gabri\Desktop\Proyectos\1.Mango\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
